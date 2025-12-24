@@ -1,0 +1,5 @@
+{
+  "name": "CloudOps Starter Kit",
+  "description": "A comprehensive dashboard for junior DevOps engineers to monitor infrastructure, manage IAM, track CI/CD pipelines, and use AI-driven troubleshooting for enterprise cloud operations.",
+  "requestFramePermissions": []
+}
